@@ -1,5 +1,5 @@
 # Yoga Asana Classifier
-
+<img src="yoga.png"/>
 <h1>Description</h1>
 Hi welcome to my new deep learning project "Yoga Asana Classifier / pose classifier ". This project as the name suggests can predict the yoga pose which you are doing in front of the webcam.<br>
 This project comprise of three python scripts namely,<br>
@@ -18,7 +18,7 @@ For this project I used mediapipe pose detection to detect the human body pose a
 <code>pip install numpy</code><br>
 
 <h1>How to Run?</h1>
-<h2>Adding Data<h2>
+<h2>Adding Data</h2>
   To add data you have to run <b>python data_collection.py</b> and  have to provide the name of asana you want to add.
  <h2>Training</h2>
   To train just run <b>python data_training.py</b> to train the model on newly added data.
@@ -27,9 +27,7 @@ For this project I used mediapipe pose detection to detect the human body pose a
   
   <h1>Video</h1>
   video link : https://youtu.be/sIRqrwZnuHE<br>
-  <img src="yoga.png"/>
   
-
 <h1>Connect with me</h1>
 If you have any queries regarding any of the topic I discussed in this video feel free to talk to e using below links:<br>
 facebook : https://m.facebook.com/proogramminghub<br>
