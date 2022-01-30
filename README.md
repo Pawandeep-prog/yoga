@@ -27,7 +27,7 @@ For this project I used mediapipe pose detection to detect the human body pose a
   
   <h1>Video</h1>
   video link : https://youtu.be/sIRqrwZnuHE<br>
-  <img src="yoga.jpg"/>
+  <img src="yoga.png"/>
   
 
 <h1>Connect with me</h1>
