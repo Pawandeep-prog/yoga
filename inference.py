@@ -58,7 +58,7 @@ while True:
 							 landmark_drawing_spec=drawing.DrawingSpec(color=(0,0,255), circle_radius=3, thickness=3))
 
 
-	window[420:900, 170:810, :] = frm
+	window[420:900, 170:810, :] = cv2.resize(frm, (640, 480))
 
 	cv2.imshow("window", window)
 
